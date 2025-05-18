@@ -133,4 +133,4 @@ if st.button("Fetch and Analyze Weather Data"):
                 st.pyplot(plt.gcf())
                 plt.clf()
 
-            spark.stop()
+spark.stop()
